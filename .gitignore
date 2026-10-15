@@ -1,2 +1,6 @@
 /.atl/
 /.env
+/.impeccable/mocks/decision/
+/.impeccable/questions/
+/.impeccable/review/
+/.impeccable/build/
